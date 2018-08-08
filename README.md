@@ -1,8 +1,8 @@
-#Self-Driving Car Engineer Nanodegree 
+# Self-Driving Car Engineer Nanodegree
 
----
+------
 
-**Behavioral Cloning - Project 3**
+**Term1: Behavioral-Cloning - Project 3**
 
 The goals / steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
