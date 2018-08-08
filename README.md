@@ -17,7 +17,6 @@ The goals / steps of this project are the following:
 [image1]: ./examples/placeholder.png "Model Visualization"
 
 
-###Project Files 
 
 ####1. Files
 
